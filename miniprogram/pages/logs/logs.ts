@@ -17,4 +17,10 @@ Page({
       logcolor: opts.color || "blue",
     });
   },
+  onLogTap(){
+    wx.navigateTo({
+      // 使用绝对路径
+      url:'/pages/test2/test2'
+    })
+  }
 });
