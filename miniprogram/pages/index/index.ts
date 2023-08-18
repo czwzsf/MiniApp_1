@@ -36,8 +36,8 @@ Page({
         markers: [
             {
                 id: 0,
-                latitude:31.467,
-                longitude: 120.417,
+                latitude:31.567,
+                longitude: 120.317,
                 iconPath: '/resources/IMG_0226.JPG',
                 width: 50,
                 height: 50,
